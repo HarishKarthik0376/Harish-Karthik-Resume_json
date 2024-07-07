@@ -1,0 +1,168 @@
+{
+  "name": "Harish Karthik C",
+  "title": "Mobile Application Developer",
+  "contact": {
+    "email": "karthikisawesome7@gmail.com",
+    "phone": "+91 8169771250",
+    "location": "Chennai",
+    "birthdate": "14/04/2003",
+    "linkedin": "https://www.linkedin.com/in/harish-karthik-223077258",
+    "github": "https://github.com/HarishKarthik0376",
+    "play_store": "https://play.google.com/store/apps/developer?id=HkCodes&hl=en_IN"
+  },
+  "profile": "Dedicated B.Tech CSE student at SRM Institute of Science and Technology, specializing in Information Technology. Skilled in web development and proficient in Java and Flutter for app development. Strong adaptability and communication skills.",
+  "professional_experience": [
+    {
+      "title": "Mobile Application Developer Intern",
+      "company": "Altruisty",
+      "date": "06/2024 – present",
+      "responsibilities": [
+        "Currently interning as a Mobile Application Developer at Altruisty.",
+        "Developing a Flutter-based platform aimed at startups and medium-scale businesses.",
+        "Addressing challenges in registration, funding, government compliance, and service support, while fostering a business networking community for small to medium-sized enterprises to expand and connect."
+      ]
+    },
+    {
+      "title": "AICTE - AWS Cloud Virtual Internship",
+      "company": "EduSkills",
+      "date": "01/2024 – 03/2024",
+      "responsibilities": [
+        "Attained comprehensive training in cloud computing fundamentals with a focus on AWS.",
+        "Gained proficiency in advanced architectural principles specific to the AWS ecosystem."
+      ]
+    },
+    {
+      "title": "Salesforce Developer Virtual Internship",
+      "company": "EduSkills",
+      "date": "11/2023 – 01/2024",
+      "responsibilities": [
+        "Developed knowledge with Lightning, Visualforce, and Apex components.",
+        "Deepened understanding of process builder automation, workflows, and Salesforce object setup operations."
+      ]
+    },
+    {
+      "title": "AICTE - Android Developer Virtual Internship",
+      "company": "EduSkills",
+      "date": "09/2023 – 11/2023",
+      "responsibilities": [
+        "Obtained hands-on experience in Android development.",
+        "Proficient in crafting responsive interfaces using XML, Kotlin and Java within Android Studio."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B-tech CSE With Specialization in Information Technology",
+      "institution": "SRM IST",
+      "date": "06/2021 – present",
+      "location": "Chennai, India",
+      "cgpa": "9.37/10"
+    },
+    {
+      "degree": "12th Grade",
+      "institution": "Narayana Jr.College",
+      "date": "2020 – 2021",
+      "location": "Mumbai, India",
+      "score": "90.33%"
+    }
+  ],
+  "certificates": [
+    "AWS Academy Cloud Foundations",
+    "AWS Academy Cloud Architecting",
+    "IBM - Introduction to Data Science",
+    "ZSCALER - Fundamentals of Cybersecurity",
+    "Servicenow - Micro-Certification - Welcome to ServiceNow",
+    "AWS Academy Machine Learning Foundations",
+    "CISCO - Networking Essentials",
+    "NPTEL - The Joy Of Computing Using Python",
+    "ACCENTURE - Digital Skills: User Experience"
+  ],
+  "skills": [
+    "Java",
+    "Flutter",
+    "React.Js",
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Firebase",
+    "Python3",
+    "SQL",
+    "C",
+    "Figma"
+  ],
+  "projects": [
+    {
+      "name": "TaskMate - Advanced Task Scheduler Android App",
+      "description": "Developed a unique Android task scheduler app featuring real-time notifications, a stylish UI with dark and light modes, and dynamic task management by date or priority. Utilizes SharedPreferences and Firebase for authentication, ensuring personalized task tracking with unique user keys. Supports cloud sync and is available on the Google Play Store."
+    },
+    {
+      "name": "HealthMate Android Application",
+      "description": "Designed and launched a health-tracking application, enabling effortless input and reminders for essential health metrics. Empowering users to monitor BMI, heart rate, SpO2, and blood pressure seamlessly. Successfully published the app on the Google Play Store."
+    },
+    {
+      "name": "DocMate Mobile Application",
+      "description": "DocMate enables secure patient-doctor communication with unique user codes. Users share these codes during physical visits to create chat rooms that stay independent on both devices, ensuring privacy and reducing spam. The app features role-specific UIs for doctors and patients, adapting upon login."
+    },
+    {
+      "name": "KYC Verification Using React.Js",
+      "description": "Developed a KYC verification web application using React.js and Firebase, incorporating features such as user authentication, basic details input, identity proof upload, live camera verification, and OCR validation."
+    },
+    {
+      "name": "Full Stack Website Using Firebase For College - Hassle-Free-Trips",
+      "description": "Crafted 'Hassle-Free Trips' website with HTML, CSS, JavaScript, and Firebase, merging style and functionality for seamless user experience."
+    },
+    {
+      "name": "Full Stack Web Development Project For College - Control Engineering Lab",
+      "description": "Collaborating with SRM faculty to develop an intuitive e-Lab platform with engaging user interface and backend utilizing AWS DynamoDB."
+    },
+    {
+      "name": "School Dropout Analysis - Machine Learning Integrated with Web Development",
+      "description": "Collaborated with SRM faculty to analyze school dropout trends using Python, developing a machine learning system for prediction, and creating an interactive UI for enhanced accessibility and interpretation of dropout predictions."
+    }
+  ],
+  "hackathons": [
+    {
+      "name": "SRMKZILLA - MOZOHACK5.0",
+      "date": "03/2024",
+      "description": "Developed DocMate at MOZOHACK5.0."
+    },
+    {
+      "name": "Standard Chartered Hackathon",
+      "date": "03/2024",
+      "description": "Developed a banking KYC verification web app using OCR technology with my team."
+    },
+    {
+      "name": "Hack-O-Hire",
+      "date": "03/2024",
+      "description": "Participated in Hack-O-Hire hackathon with a creative idea submission."
+    },
+    {
+      "name": "Ey-Techathon 4.0",
+      "date": "11/2023",
+      "description": "Topic - Reimagining Healthcare with Generative AI."
+    },
+    {
+      "name": "Smart India Hackathon",
+      "date": "09/2023",
+      "description": "Contributed to the Student Dropout Analysis and Prediction system."
+    }
+  ],
+  "languages": [
+    "English",
+    "Tamil",
+    "Hindi"
+  ],
+  "interpersonal_skills": [
+    "Communication",
+    "Teamwork",
+    "Problem Solving",
+    "Leadership",
+    "Creativity"
+  ],
+  "scholarships": [
+    {
+      "name": "Performance Based Scholarship",
+      "description": "Achieved a performance-based scholarship of Rs.66,500 in second year, resulting in subsequent fee reduction."
+    }
+  ]
+}
